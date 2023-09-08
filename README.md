@@ -65,7 +65,7 @@ endmodule
 ##  RTL realization
 ![image](https://github.com/SowmyaVisvanathan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475775/e914821a-7eb7-4db6-8ff0-a56ea0d98a51)
 
-![image](https://github.com/SowmyaVisvanathan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475775/d220f9c6-39ff-44fe-9e8d-71ca1a94bd59)
+![image](https://github.com/SowmyaVisvanathan/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/119475775/143429fa-6cab-4e54-90c0-c0fb6771f33e)
 
 
 ## Result:
