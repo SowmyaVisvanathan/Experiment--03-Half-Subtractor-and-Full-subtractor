@@ -1,4 +1,4 @@
-# Experiment-03 Implementation of Half Subtractor and Full subtractor
+# Experiment-04 Implementation of Half Subtractor and Full subtractor
 
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
